@@ -1,7 +1,7 @@
-Feature: solve this challenge
+Feature: Solve this challenge
   Trying solve this challenge about the Caesar cipher, a cipher method where you change the letter a amount of alphabet letters
   http://www.wechall.net/challenge/training/crypto/caesar/index.php
-  
+
   Background:
     Given the letter d
     Then you want to encode with Caesar cipher 4 is h
